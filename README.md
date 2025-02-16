@@ -7,7 +7,7 @@
 ## 🌟 **Sobre mí**
 - 🎯 Apasionado por automatizar flujos de trabajo y mejorar la eficiencia operativa.
 - 🐍 Desarrollador con experiencia en Python y Flask para construir aplicaciones rápidas y eficientes.
-- 📦 Experto en contenedores con Docker y Kubernetes, asegurando escalabilidad y disponibilidad.
+- 📦 Aprendiz en contenedores con Docker y Kubernetes, asegurando escalabilidad y disponibilidad.
 - 🔄 Firme creyente en la colaboración y las prácticas ágiles para lograr objetivos ambiciosos.
 
 ---
